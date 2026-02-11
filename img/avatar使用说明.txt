@@ -1,0 +1,5 @@
+将你的头像图片命名为 avatar.png 放入此目录，或修改 _config.yml 中 theme_config.about.avatar 的路径。
+
+可选：微信二维码图片命名为 wechat-qr.png 放入此目录，用于关于页的微信图标悬浮展示。
+
+主题默认头像在 themes/fluid/source/img/avatar.png，可直接复制使用作为占位。
